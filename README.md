@@ -1,5 +1,7 @@
 ### Hi, I'm Bernd 👋
 
+[![Bernd's GitHub stats](https://github-readme-stats.vercel.app/api?username=berndverst)](https://github.com/anuraghazra/github-readme-stats)
+
 I'm a core maintainer of Dapr (Distributed Application Runtime), https://dapr.io.
 
 I spend a lot of time thinking about open source approaches to cloud and developer infrastructure and tooling.
