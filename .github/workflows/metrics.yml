@@ -13,8 +13,8 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           filename: header.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.READTOKEN }}
+          committer_token: ${{ secrets.WRITESECRET }}
           # Options
           user: aramase
           template: classic
@@ -26,8 +26,8 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           filename: achievements.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.READTOKEN }}
+          committer_token: ${{ secrets.WRITESECRET }}
           user: aramase
           base: achievements
           plugin_achievements: yes
@@ -41,8 +41,8 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           filename: iso_calender.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.READTOKEN }}
+          committer_token: ${{ secrets.WRITESECRET }}
           # Options
           user: aramase
           template: classic
@@ -56,8 +56,8 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           filename: repositories.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.READTOKEN }}
+          committer_token: ${{ secrets.WRITESECRET }}
           # Options
           user: aramase
           template: classic
@@ -69,8 +69,8 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           filename: activity_community.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.READTOKEN }}
+          committer_token: ${{ secrets.WRITESECRET }}
           # Options
           user: aramase
           template: classic
