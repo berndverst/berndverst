@@ -16,7 +16,7 @@ jobs:
           token: ${{ secrets.READTOKEN }}
           committer_token: ${{ secrets.WRITESECRET }}
           # Options
-          user: aramase
+          user: berndverst
           template: classic
           base: header
           config_timezone: ${{ secrets.USER_TIMEZONE }}
@@ -28,7 +28,7 @@ jobs:
           filename: achievements.svg
           token: ${{ secrets.READTOKEN }}
           committer_token: ${{ secrets.WRITESECRET }}
-          user: aramase
+          user: berndverst
           base: achievements
           plugin_achievements: yes
           plugin_achievements_threshold: B      # Display achievements with rank B or higher
@@ -44,7 +44,7 @@ jobs:
           token: ${{ secrets.READTOKEN }}
           committer_token: ${{ secrets.WRITESECRET }}
           # Options
-          user: aramase
+          user: berndverst
           template: classic
           base: ""
           config_timezone: ${{ secrets.USER_TIMEZONE }}
@@ -59,7 +59,7 @@ jobs:
           token: ${{ secrets.READTOKEN }}
           committer_token: ${{ secrets.WRITESECRET }}
           # Options
-          user: aramase
+          user: berndverst
           template: classic
           base: repositories
           config_timezone: ${{ secrets.USER_TIMEZONE }}
@@ -72,7 +72,7 @@ jobs:
           token: ${{ secrets.READTOKEN }}
           committer_token: ${{ secrets.WRITESECRET }}
           # Options
-          user: aramase
+          user: berndverst
           template: classic
           base: activity, community
           config_timezone: ${{ secrets.USER_TIMEZONE }}
