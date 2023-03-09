@@ -1,7 +1,22 @@
 ### Hi, I'm Bernd 👋
 
-[![Bernd's GitHub stats](https://github-readme-stats.vercel.app/api?username=berndverst)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/aramase">
+  <img align="center" width="50%" src="./header.svg" />
+</a>
+<a href="https://github.com/aramase">
+  <img align="center" width="50%" src="./repositories.svg" />
+</a>
+<a href="https://github.com/aramase">
+  <img align="center" width="49%" src="./activity_community.svg" />
+</a>
+<a href="https://github.com/aramase">
+  <img align="center" width="49%" src="./iso_calender.svg" />
+</a>
+<a href="https://github.com/aramase">
+    <img align="center" width="50%" src="./achievements.svg" />
+</a>
 
+<!-- [![Bernd's GitHub stats](https://github-readme-stats.vercel.app/api?username=berndverst)](https://github.com/anuraghazra/github-readme-stats) -->
 I'm a core maintainer of Dapr (Distributed Application Runtime), https://dapr.io.
 
 I spend a lot of time thinking about open source approaches to cloud and developer infrastructure and tooling.
@@ -11,7 +26,7 @@ I spend a lot of time thinking about open source approaches to cloud and develop
 - Instagram: [@berndverst](https://instagram.com/berndverst)
 - Facebook: [Bernd Verst](https://facebook.com/verst)
 
-You can also find me in the Kubernetes, Docker, Kubeflow community Slack instances.
+You can also find me in the Dapr Discord Server, the Kubernetes, Docker, Kubeflow community Slack instances.
 <!--
 **berndverst/berndverst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
